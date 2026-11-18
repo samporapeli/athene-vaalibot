@@ -1,3 +1,7 @@
+> [!WARNING]
+> Archived, no longer maintained. Last change: 2023-10-23.
+> See [athenekilta/athene-vaalibot](https://github.com/athenekilta/athene-vaalibot), the official fork by Athene's Hacker Crew volunteers.
+
 # athene-vaalibot
 This simple Telegram bot checks the Flarum based [election forum](https://athene.fi/vaalit/) of [Athene](https://athene.fi) (the guild/student association of Information Networks in Aalto University) for new discussions posted under topics regarding nomination of candidates and sends updates to Telegram.
 ## Setup
